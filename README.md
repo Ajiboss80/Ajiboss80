@@ -1,4 +1,3 @@
-Hi, I’m Emmanuel Ajibola.
 Hi, I am an enthusiastic intermediate Frontend Web Developer. I love to learn new ways of writing well-structured codes with present-day best practices in web development.
 I currently use Javascript and CSS for styling. Learning new languages.
 
